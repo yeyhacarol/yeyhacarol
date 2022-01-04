@@ -1,16 +1,13 @@
-### Hi there 👋
+### Oi gente, sou a Carol 👋
 
-<!--
-**yeyhacarol/yeyhacarol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
+- Amante de tecnologia;
+- Buscando por aprendizado;
+- Procurando minha melhor versão;
+- Buscando meus sonhos!
 
-Here are some ideas to get you started:
+Habilidades: Java, HTML5 e CSS3 (por enquanto).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub dark](https://github-readme-stats.vercel.app/api?username=yeyhacarol&show_icons=true?username=anuraghazra&show_icons=true&theme=gruvbox&hide_bord)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='25'>](https://www.linkedin.com/in/carolina-chaves-b841b921b//)
