@@ -1,10 +1,9 @@
-### Oi gente, sou a Carol 👋
+### Oi, sou a Carol 👋
 
 Um pouco sobre mim:
-- Buscando por aprendizado;
-- Procurando minha melhor versão;
+- Buscando sempre minha melhor versão.
 
-Habilidades: Java, HTML5 e CSS3 (por enquanto).
+Habilidades: Java, HTML5, CSS3, Javascript, React, PHP7 e MySQL (por enquanto).
 
 ![GitHub dark](https://github-readme-stats.vercel.app/api?username=yeyhacarol&show_icons=true?username=anuraghazra&show_icons=true&theme=gruvbox&hide_bord)
 
