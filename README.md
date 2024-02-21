@@ -3,7 +3,7 @@
 Um pouco sobre mim:
 - Buscando sempre minha melhor versão.
 
-Habilidades: Java, HTML5, CSS3, Javascript, React, PHP7 e MySQL (por enquanto).
+Habilidades: HTML5, CSS3, Javascript, React, Angular, PHP7 e MySQL.
 
 ![GitHub dark](https://github-readme-stats.vercel.app/api?username=yeyhacarol&show_icons=true?username=anuraghazra&show_icons=true&theme=gruvbox&hide_bord)
 
